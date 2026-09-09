@@ -23,6 +23,10 @@ aiohttp. Источники: Deezer, Audius и (опционально) Jamendo.
   с официальным 30-секундным превью и кнопками, открывающими полную песню
   в Яндекс Музыке, YouTube Music, Spotify, Deezer и Apple Music.
 
+## Скриншоты
+
+![Демо: поиск, превью и кнопки стримингов](screenshots/demo-chat.png)
+
 ## Установка
 
 1. **Токен бота** — в Telegram откройте [@BotFather](https://t.me/BotFather),
